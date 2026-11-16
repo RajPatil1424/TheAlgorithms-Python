@@ -66,5 +66,7 @@ PYTHONPATH=. uv run python work/R23-T036/experiment.py
 
 ## Peer re-derivation
 
-Ask a classmate to derive why the worked polygon produces three triangles
-without running the code. Their feedback will be recorded here after review.
+@kurkurenishant was asked to derive why the worked polygon produces three
+triangles and which vertex is clipped first, without running the code. The
+[request is in PR #77](https://github.com/S-AI-Projects/TheAlgorithms-Python/pull/77#issuecomment-6917698910);
+their feedback is pending and will be recorded here when received.
